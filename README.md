@@ -38,7 +38,7 @@ ogo=postgresql&logoColor=white)
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](your-kaggle)
-[![Portfolio](https://9010093331.oneapp.dev/)](your-portfolio)
+[![Portfolio](https://9010093331.oneapp.dev/)][(your-portfolio](https://9010093331.oneapp.dev/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
