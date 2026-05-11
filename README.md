@@ -69,21 +69,19 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karunya-lol&show_icons=true&theme=tokyonight" height="180em"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karunya-lol&show_icons=true&theme=tokyonight)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunya-lol&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karunya-lol&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=karunya-lol&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=karunya-lol&theme=tokyonight)
+
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/FreeeStyle?theme=dark&font=Karma)
 
 ---
 
