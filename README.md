@@ -17,7 +17,6 @@
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
 - 💻 Passionate about **AI, Machine Learning & Open Source**
 - 🧩 Solved **300+ LeetCode Problems**
-- ⚡ Codeforces Rating: **1600**
 - 🚀 Interested in **LLMs, AI Agents & Full Stack AI Apps**
 - 🌱 Currently learning **Deep Learning & System Design**
 
